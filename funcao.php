@@ -1,7 +1,7 @@
 <?php
 
 function mensaged (){
-echo "boa noite";
+echo "Boa Tarde";
 }
 function messaged (){
     echo "insira sua mensagem aqui em baixo";
